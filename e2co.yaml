@@ -5,7 +5,7 @@ info:
   description: E2CO REST API is responsible for the deployment of applications in Edge and Cloud clusters / devices
 schemes:
 - http
-host: 192.192.192.192:8333
+host: 192.168.111.52:31000
 basePath: "/api/v1"
 
 tags:
